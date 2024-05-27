@@ -219,6 +219,20 @@ h1 {
   margin: 10px;
 }
 
+/* SEPARACION MANDALA */
+
+.sec {
+  height: 50px;
+  padding: 10px;
+}
+
+.sec .conte {
+  max-width: 600px;
+}
+
+.colors {
+  background-image: url(imagenes/mandala.jpg) ;
+}
 
 /* Testimonios */
 
@@ -325,6 +339,10 @@ h1 {
 .contacto button:hover i {
   color: black;
 }
+
+.tamaño { 
+  width: 100px; 
+ }
 
 /* Pie de pagina (footer) */
 

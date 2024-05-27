@@ -4,14 +4,15 @@ let typewriterElements = document.querySelectorAll('.typewriter');
 // Textos para cada elemento
 let texts = [
   'Desarrollo sitios web',
-  'Proyectos que he creado recientemente...'
+  'Proyectos que he creado recientemente...',
+  'Algunos testimonios de compañerxs'
 ];
 
 // Iterar sobre cada elemento y aplicar el efecto Typewriter con su texto respectivo
 typewriterElements.forEach((element, index) => {
   let typewriter = new Typewriter(element, {
     loop: true,
-    delay: 75,
+    delay: 100,
   });
 
   typewriter
