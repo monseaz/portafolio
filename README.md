@@ -15,6 +15,8 @@ Esta página web fue creada con:
 
 Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstrap icons** para incorporar íconos como flechas y logos de redes sociales populares. 
 
+Visualización: https://mgnportafolio.netlify.app
+
 
 
 
